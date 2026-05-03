@@ -1,19 +1,3 @@
 # Kayd Darden
 
-I'm a self-driven developer currently building **Tradehaven**, a JavaScript-based forum platform designed from the ground up, using only Firebase and React as footholds. This project is my personal dive into custom web development, where nearly every element is written by hand.
-
----
-
-## What I'm Working On
-
-### Tradehaven  
-A forum-style platform for finding and offering work within a specific community.
-
-- Clean, minimal design focused on usability
-- Authentication handled via a secure back-end service
-- Designed to scale with user-generated posts, profiles, and live collaboration features
-- A personal, fully customizable modular portfolio where users can share their work
-
----
-
-I'm building this as a personal challenge to understand every layer of modern web development—from layout and accessibility to routing, state management, and deployment.
+I work in AI development. I tend to work almost entirely on independent projects, mostly because I just enjoy working by myself. I'm open to any new projects, though, if you're looking for an extra developer. I don't really have a specialization, as training AI is extremely diverse, so I am very much a jack of all trades. Master at none until I find a real project to work on with a team, but I would say I am quite confident in my abilities to learn new things. I'm currently building a Minecraft-esque voxel terrain generator. Currently just a 3d heightmap with Grass, stone, and sand. 256x256 block chunks, which are split into 3x3 regions. Regions are used mostly as a basis for chunked rendering in order to load in a lot at once into the atlas and prevent pop-in, whereas chunks are mainly used as a basis for simple sampling and noise generation.
